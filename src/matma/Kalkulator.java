@@ -11,6 +11,23 @@ public class Kalkulator {
 
     }
 
+public static double odejmuj (double d, double e){
+        double f;
+    f = d-e;
+    return f;
+    }
 
+    public static double mnoz (double g, double h){
+        double i;
+        i= g * h;
+        return i;
+
+    }
+    public static double dziel (double j, double k){
+        double l;
+        l= j/k;
+        return l;
+
+    }
 
 }
